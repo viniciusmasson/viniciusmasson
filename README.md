@@ -17,5 +17,5 @@ Python · Selenium · Streamlit · REST APIs · Sankhya ERP · Ploomes CRM · SQ
 
 ## Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/vinicius-masson-aa2183227/)]
+- LinkedIn: https://www.linkedin.com/in/vinicius-masson-aa2183227/
 - E-mail: viniciusmasson01@gmail.com
