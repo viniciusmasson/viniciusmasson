@@ -1,16 +1,21 @@
-## Hi there 👋
+# Vinícius Masson
 
-<!--
-**viniciusmasson/viniciusmasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas e desenvolvedor Python com foco em automação de processos (RPA) e integração de sistemas empresariais.
 
-Here are some ideas to get you started:
+Atuo como único desenvolvedor de TI na OrthoMundi, onde planejo, desenvolvo e opero automações e ferramentas internas do zero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu faço
+
+- Automação web com Selenium (bots, scraping, monitoramento)
+- Integração entre sistemas via REST API (ERP, CRM, omnichannel)
+- Dashboards e ferramentas internas com Streamlit
+- Pipelines de dados entre plataformas empresariais
+
+## Stack
+
+Python · Selenium · Streamlit · REST APIs · Sankhya ERP · Ploomes CRM · SQL (Oracle) · Windows Server
+
+## Contato
+
+- LinkedIn: [(https://www.linkedin.com/in/vinicius-masson-aa2183227/)]
+- E-mail: viniciusmasson01@gmail.com
