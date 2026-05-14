@@ -1,19 +1,21 @@
 # Vinícius Masson
 
-Analista de Sistemas e desenvolvedor Python com foco em automação de processos (RPA) e integração de sistemas empresariais.
+Python Developer | Automation Engineer
 
-Atuo como único desenvolvedor de TI na OrthoMundi, onde planejo, desenvolvo e opero automações e ferramentas internas do zero.
+Desenvolvedor Python com foco em automação de processos e integração de sistemas empresariais. Atuo como desenvolvedor único de TI, o que significa planejar, construir e operar soluções do zero — sem equipe, sem mão a segurar.
+
+Meu trabalho consiste em eliminar processos manuais repetitivos e conectar sistemas que não se comunicam nativamente, usando código.
 
 ## O que eu faço
 
-- Automação web com Selenium (bots, scraping, monitoramento)
-- Integração entre sistemas via REST API (ERP, CRM, omnichannel)
+- Automação web com Selenium — extração de relatórios, monitoramento, bots operacionais
+- Integração entre sistemas via REST API — ERP, CRM, plataformas omnichannel
 - Dashboards e ferramentas internas com Streamlit
 - Pipelines de dados entre plataformas empresariais
 
 ## Stack
 
-Python · Selenium · Streamlit · REST APIs · Sankhya ERP · Ploomes CRM · SQL (Oracle) · Windows Server
+Python · Selenium · Streamlit · REST APIs · SQL · Pandas · Plotly · Windows Server
 
 ## Contato
 
