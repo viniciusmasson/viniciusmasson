@@ -28,7 +28,6 @@ de cada automação da concepção à operação.
 **Automação:** Python · Selenium · Playwright · REST APIs · agendamento em Windows Server e Linux
 **Dados:** SQL (Oracle, SQL Server, SQLite) · Pandas · Streamlit
 **IA aplicada:** LLMs com saída JSON estruturada
-**Em formação:** UiPath (certificação Automation Developer Associate prevista para dez/2026) · Power Automate
 
 ## Contato
 
